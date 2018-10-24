@@ -1,6 +1,6 @@
 {
   "name": "zadatak2",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "author": "Stodic Boris",
   "dependencies": {},
@@ -16,7 +16,8 @@
     "eslint-plugin-react": "^7.11.1"
   },
   "scripts": {
-    "eslint": "npx eslint -- ./src/."
+    "eslint": "npx eslint -- ./src/.",
+    "start": "node src/index.js"
   },
   "main": "index.js",
   "keywords": [],
