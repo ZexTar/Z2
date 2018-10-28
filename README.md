@@ -19,5 +19,5 @@ Finally, just pass them to a startSimulation function:
 ```javascript
 startSimulation(unit1, unit2, unit3, newUnit, moreUnits);
 ```
-Run ```npm start``` to watch battle events!
+Run ```npm install``` and ```npm start``` to watch battle events!
 
