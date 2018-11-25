@@ -1,4 +1,4 @@
-# Z2
+# battle_simulator
 
 This code can simulate battle between two or more units.
 
